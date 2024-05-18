@@ -1,7 +1,7 @@
 import React from 'react';
 
 function component() {
-  return <div>component</div>;
+  return <div>componsd</div>;
 }
 
 export default component;
